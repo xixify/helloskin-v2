@@ -1,9 +1,7 @@
-# Hello Skin – design previews
+# Hello Skin – beauty retail storefront preview
 
-Two clickable storefront previews for the Hello Skin WooCommerce build.
+Clickable retail-style design preview for the Hello Skin WooCommerce build (Elementor Pro + free WooCommerce).
 
-- `minimal/` – Shopify-style minimal direction
-- `retail/` – dense beauty-retail direction
-- `img/` – web-sized product photos (WebP)
+Live: https://xixify.github.io/helloskin-v2/
 
-Open `index.html` to choose a preview. Prices, discounts, ratings and reviews are placeholders.
+Prices, offers, ratings and reviews are placeholders. The minimal direction lives in [helloskin-V1](https://github.com/xixify/helloskin-V1).
